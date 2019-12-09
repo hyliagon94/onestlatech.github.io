@@ -107,6 +107,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
+<<<<<<< HEAD
+=======
+* [Jérôme Béhuet](https://jbehuet.fr), Développeur - Freelance - DEEXIT
+* Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Quentin Baudet](https://github.com/Thornolf), Développeur 
+>>>>>>> Update _index.md
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
@@ -179,6 +185,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Emeric Kasbarian](https://twitter.com/emerick42), Développeur [Vanoix](https://vanoix.com)
 * Tam Kien Duong, data.gouv.fr
 * Thimy Kieu, Codeurs en Liberté, Développeuse web, Membre de la communauté beta.gouv.fr
+<<<<<<< HEAD
+=======
+* Pierre Kuhner, Ingénieur sécurité
+>>>>>>> Update _index.md
 * Fabien Labrousse, développeur, salarié
 * [Brice Maurin](https://linkedin.com/in/bricemaurin), fondateur [deux.io, agence growth hacking](https://deux.io)
 * Pierre de La Morinerie, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
@@ -221,7 +231,10 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Grégoire Pineau](https://github.com/lyrixx), Développeur
 * [Damien Pobel](https://damien.pobel.fr/)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+<<<<<<< HEAD
 * [Mickael Prevot](https://twitter.com/mick_prev), Lead Developer [norsys](https://www.norsys.fr)
+=======
+>>>>>>> Update _index.md
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nicolas Quéquet, développeur
 * Tristan Prudhomme, Développeur, Max Digital Services
@@ -262,6 +275,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
+<<<<<<< HEAD
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
 * Samuel Bodin, Développeur Senior Backend
@@ -270,6 +284,9 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Gaëtan Duchaussois, Admin sys
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Karima Rafes](http://karimarafes.me/), enseignante-chercheuse et CEO de [BorderCloud](http://www.bordercloud.com/)
+=======
+* [David Leuliette](https://twitter.com/flexbox_), [Développeur Freelance](https://davidl.fr)
+>>>>>>> Update _index.md
 
 ### Organisations
 
